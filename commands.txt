@@ -1,2 +1,1 @@
 build=echo it built!
-deploy=echo it was deployed!
