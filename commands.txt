@@ -1,2 +1,4 @@
 build=echo it built!!!
+cdcs=echo run some code
 deploy=echo whatever
+post-deploy=echo ping me
